@@ -16,7 +16,6 @@ The account details and the reason for deletion are as follows:
 Account Information
 
 - Email: example@gmail.com
-- Password: 12345678
 
 Reason
 
